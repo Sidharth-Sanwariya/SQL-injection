@@ -3,3 +3,4 @@ Blind SQL injection occurs when an application is vulnerable to SQL injection bu
 
 Time-based blind SQL injection** uses commands like `SLEEP(5)` to cause intentional delays. If the response takes 5 seconds, you know the condition was true.
 
+
